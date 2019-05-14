@@ -1,0 +1,21 @@
+{
+    "name": "night-owl-black",
+    "displayName": "Night Owl Black",
+    "description": "A VS Code color theme based on the excellent Night Own theme by Sarah Drasner",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Owl Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Owl Black-color-theme.json"
+            }
+        ]
+    }
+}
