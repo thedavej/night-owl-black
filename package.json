@@ -3,6 +3,18 @@
     "displayName": "Night Owl Black",
     "description": "A VS Code color theme based on the excellent Night Own theme by Sarah Drasner",
     "version": "1.0.0",
+    "publisher": "thedavej",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/thedavej/night-owl-black"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Night Owl",
+        "Night Theme",
+        "Accessible Theme"
+      ],
     "engines": {
         "vscode": "^1.30.0"
     },
