@@ -1,7 +1,10 @@
 # Change Log
-All notable changes to the "night-owl-black" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+
+## [v1.0.0] 2019-06-21 
+
 - Initial release
+
+[Unreleased]: https://github.com/thedavej/night-owl-black/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/thedavej/night-owl-black/releases/tag/v1.0.0
