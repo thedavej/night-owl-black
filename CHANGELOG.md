@@ -2,8 +2,11 @@
 
 ## [Unreleased]
 
+## [1.0.2] - 2019-07-14 
+
 ## Changed
 
+- Tweaks colors slightly
 - Fixes typo in ChangeLog
 
 ## [1.0.1] - 2019-06-21 
