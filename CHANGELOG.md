@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [1.1.0] - 2019-11-17
+
+## Added
+
+- Adds activityBar colors to accomodate new settings
+- Adds icon
+
 ## [1.0.2] - 2019-07-14 
 
 ## Changed

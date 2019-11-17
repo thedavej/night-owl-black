@@ -2,10 +2,12 @@
 	"name": "Night Owl Black",
 	"type": "dark",
 	"colors": {
+		"activityBar.activeBorder": "#a599e9",
 		"activityBar.background": "#131313",
 		"activityBar.border": "#3b3b3b",
 		"activityBar.dropBackground": "#5f7e97",
-		"activityBar.foreground": "#5f7e97",
+		"activityBar.foreground": "#a599e9",
+		"activityBar.inactiveForeground": "#5f7e97",
 		"activityBarBadge.background": "#44596b",
 		"activityBarBadge.foreground": "#ffffff",
 		"badge.background": "#5f7e97",
