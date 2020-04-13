@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [1.1.2] - 2020-04-12
+
+- Updates colors for tabs, diffs, quick open (Command+P) UI
+
 ## [1.1.1] - 2019-11-17
 
 - Fixes links in ChangeLog
