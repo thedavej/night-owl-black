@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 
-## [1.1.2] - 2020-04-12
+## [1.2.0] - 2020-04-12
 
 - Updates colors for tabs, diffs, quick open (Command+P) UI
 
@@ -34,7 +34,8 @@
 
 - Initial release
 
-[Unreleased]: https://github.com/thedavej/night-owl-black/compare/v1.1.1...HEAD
+[Unreleased]: https://github.com/thedavej/night-owl-black/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/thedavej/night-owl-black/compare/v1.1.1...v1.2.0
 [1.1.1]: https://github.com/thedavej/night-owl-black/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/thedavej/night-owl-black/compare/v1.0.2...v1.1.0
 [1.0.2]: https://github.com/thedavej/night-owl-black/compare/v1.0.1...v1.0.2
