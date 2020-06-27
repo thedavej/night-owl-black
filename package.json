@@ -28,6 +28,11 @@
                 "label": "Night Owl Black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Night Owl Black-color-theme.json"
+            },
+            {
+                "label": "Night Owl Black (No Italics)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Owl Black-color-theme-noitalic.json"
             }
         ]
     }
